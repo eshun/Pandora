@@ -11,9 +11,17 @@
 
 ### IntelliJ IDEA ###
 .idea
+.mvn
 *.iws
 *.iml
 *.ipr
+
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+*.log
 
 ### NetBeans ###
 /nbproject/private/
